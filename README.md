@@ -41,7 +41,7 @@ A modern, responsive, and professional Password Strength Checker app built with 
 1. Clone the repository:
 
 \`\`\`bash
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/iamprasidh/password-strength-checker.git
 cd password-strength-checker
 \`\`\`
 
