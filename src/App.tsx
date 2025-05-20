@@ -19,7 +19,7 @@ function App() {
 
         <div className="w-full max-w-md z-10">
           <h1 className="text-4xl font-bold text-center mb-8 text-transparent bg-clip-text bg-gradient-to-r from-violet-600 to-indigo-600 dark:from-violet-400 dark:to-indigo-400">
-            Password Strength
+            Password Strength Checker
           </h1>
           <PasswordChecker />
         </div>
