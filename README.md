@@ -73,33 +73,3 @@ npm run build
 yarn build
 \`\`\`
 
-The build output will be in the `dist` directory.
-
-## Deployment
-
-### Deploying to Vercel
-
-1. Push your code to a GitHub repository
-2. Go to [Vercel](https://vercel.com) and sign in
-3. Click "New Project" and import your repository
-4. Select "Vite" as the framework preset
-5. Click "Deploy"
-
-### Deploying to Netlify
-
-1. Push your code to a GitHub repository
-2. Go to [Netlify](https://netlify.com) and sign in
-3. Click "New site from Git" and select your repository
-4. Set the build command to `npm run build` or `yarn build`
-5. Set the publish directory to `dist`
-6. Click "Deploy site"
-
-## Customization
-
-- Modify the color scheme in `tailwind.config.js` and `src/index.css`
-- Adjust animations in the Framer Motion components
-- Add additional password criteria in the `CRITERIA` object in `PasswordChecker.tsx`
-
-## License
-
-MIT
